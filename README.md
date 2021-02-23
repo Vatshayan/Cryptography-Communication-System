@@ -7,13 +7,13 @@ Communication mad secure by using 3 Layers of Different complex Ciphers.
 
 Triple Layering of message for security are as follows-
 
-Step 1: Messgae will pass through 
+Step 1: Messgae will be **reverse.**
 
-Step 2: Resultant Output will go through vigenere cipher
+Step 2: Resultant reverse Output will go through **vigenere cipher**
 
-Step 3: The New resultant output from vigenere cipher will be encrypted through Morse cipher.
+Step 3: The New resultant output from vigenere cipher will be encrypted through **Morse cipher.**
 
-Step 4: The Output will be very complex and unreadable. 
+Step 4: The Output will be **very complex and unreadable.**
 
 
 I have explain point to point in Description(Report) 
